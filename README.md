@@ -72,6 +72,8 @@ Assets/
 ├── TextMesh Pro/
 │
 ├── RedMaterial.mat
+Packages/
+ProjectSettings/
 ```
 
 ---
