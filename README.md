@@ -27,7 +27,6 @@ A variation of the traditional Menger Sponge that uses a cross-based subdivision
 
 ### Additional Recursive Structures
 Experimental procedural fractals and recursive object systems developed for testing and visualization.
-````
 # 3D Fractals in Unity
 
 ## Overview
@@ -215,8 +214,3 @@ Contributions are welcome.
 Feel free to fork the repository, experiment with new fractal systems, and submit pull requests with improvements or additional recursive structures.
 
 ---
-
-## License
-
-This project is open-source and available under the MIT License.
-````
